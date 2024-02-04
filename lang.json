@@ -1,0 +1,134 @@
+{
+"en":{
+	"lab001" : "Let's start a fun macro life",
+	"lab002" : "Select",
+	"setup_button" : "Edit",
+	"menu_file" : "file",
+	"FILE" : "newfile",
+	"SETTING" :"openfile",
+	"OPEN" : "openfolder",
+	"Save" : "Save",
+	"NameSave" : "Save as",
+	"Finish" : "exit",
+	"option_error":"The profile data will be regenerated as data corruption was found. *If this message appears many times, please reinstall.",
+	
+	"text1":["key code you want to send",
+    "(Normal/Left key) (Right key)",
+    "A~Z : Enter as is　　　　　　　　　　　　　HOME,INSERT,PAGE_UP,DELETE,END,PAGE_DOWN",
+    "Altキー:ALT　　　　　　　　　　　　　　　　　RIGHT_ALT,RIGHT_SHIFT,RIGHT_ALT",
+    "Windowsキー:COMMAND　　　　　　　　　Key code names are based on US keyboard standards",
+    "F1~F24:Enter as is　　　　　　　　　　　　　(Please check the help for a quick reference chart of JIS keyboard)",
+    "スペース: SPACE　　　　　　　　　　　　　",
+    "CapsLock:CAPS_LOCK "],
+	
+	"keysetting":"Key setting",
+	"button_num":"button number",
+	"com":"command in",
+	"change":"Edit",
+	
+	"t2send":"Key you want to send",
+	"t2push":"Key you want to press",
+	"t2release":"Key you want to release",
+	"t2releaseALL":"Release all\n(No need to configure)",
+	"t2sleep":"Number of seconds you want to stop",
+	"t2vol":"How much can you raise or lower the volume at once?",
+	"PLAY_PAUSE":"Play/Pause (no setting required)",
+	
+	"ch_config":"Change behavior",
+	
+	"Browse":"Browse",
+	"auto":"",
+	"3":"3",
+	"2":"2",
+	"1":"1",
+	"hot_key":"Hotkey: ",
+	"Complete":"Countdown complete!",
+	"Delete":"Delete",
+	
+	"exe":"exe file",
+	"add":"add",
+	"Browser":"Browser",
+	"export":"export",
+	
+	"setting":"setting",
+	
+	"fg":"font color",
+	"bg":"background color",
+	
+	
+	"Font color setting":"Font color setting",
+	"Language settings":"Language settings",
+	"Environmental setting":"Environmental setting",
+	"tools":"tools",
+	"Soft":"Software automatic execution macro automatic setting",
+	"end":"end"
+	
+	
+	},
+"jp":{
+
+	"lab001" : "設定をカスタマイズして自分だけのマクロキーボードを作ろう！",
+	"lab002" : "言語選択",
+	"setup_button" : "変更",
+	"menu_file" : "ファイル",
+	"FILE" : "新規作成",
+	"SETTING" :"ファイルを開く",
+	"OPEN" : "フォルダを開く",
+	"Save" : "保存",
+	"NameSave" : "名前を付けて保存",
+	"Finish" : "終了",
+
+	"option_error":"データ破損が見つかったためプロファイルデータを再生成します　※何度も表示される場合は再インストールしてください",
+	
+	"text1":["送りたいキーコード",
+    "(通常・左側のキー)　　　　　　　　　　　　　（右側のキー）",
+    "A~Z : そのまま入力　　　　　　　　　　　　　HOME,INSERT,PAGE_UP,DELETE,END,PAGE_DOWN",
+    "Altキー:ALT　　　　　　　　　　　　　　　　　RIGHT_ALT,RIGHT_SHIFT,RIGHT_ALT",
+    "Windowsキー:COMMAND　　　　　　　　　キーコードの名前はUSキーボード基準です",
+    "F1~F24:そのまま入力　　　　　　　　　　　　　(日本のキーボードの早見表はヘルプを確認してください)",
+    "スペース: SPACE　　　　　　　　　　　　　",
+    "CapsLock:CAPS_LOCK "],
+	
+	"keysetting":"キー設定",
+	"button_num":"ボタン番号",
+	"com":"個目のコマンド",
+	"change":"変更",
+	
+	"t2send":"送信したいキー",
+	"t2push":"押したいキー",
+	"t2release":"離したいキー",
+	"t2releaseALL":"全て離します\n（設定の必要はないです）",
+	"t2sleep":"止めたい秒数",
+	"t2vol":"一回でどれだけ音量を上下させるか",
+	"ch_config":"挙動の変更",
+	"PLAY_PAUSE":"再生／一時停止(設定の必要はないです)",
+	
+	
+	"Browse":"参照",
+	"auto":"ソフト起動・OBSマクロ向け\n自動キー設定",
+	"3":"3",
+	"2":"2",
+	"1":"1",
+	"Complete":"キーボードの検知終了!",
+	"hot_key":"使うキー: ",
+	"Delete":"削除",
+	"exe":"実行ファイル",
+	"add":"追加",
+	"Browser":"ブラウザ",
+	"export":"エクスポート",
+	"setting":"設定",
+	
+	
+	"fg":"文字色",
+	"bg":"背景色",
+	
+	
+	"Font color setting":"色設定",
+	"Language settings":"言語設定",
+	"Environmental setting":"環境設定",
+	"tools":"ツール",
+	"Soft":"ソフトウェア自動実行マクロ自動設定",
+	"end":"end"
+	}	
+}
+
